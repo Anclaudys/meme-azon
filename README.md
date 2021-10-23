@@ -1,4 +1,4 @@
-# meme-azon
+# Meme-azon
 
 A web application to purchase virtual digital assets involving memes and comedic moments - [Live Version](http://meme-azon.herokuapp.com/)
 
